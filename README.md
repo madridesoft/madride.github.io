@@ -1,2 +1,2 @@
-# Learn&Discovery.github.io
+# LearnDiscovery.github.io
  
